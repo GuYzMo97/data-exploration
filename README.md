@@ -1,6 +1,6 @@
 Exploring the Data.
 
-OBJECTIVE:
+OBJECTIVE:<br/>
 The purpose of this task is to perform a comprehensive data quality
 assessment and exploration of a given dataset. You will generate key
 visualizations and reports to understand the data distribution, detect
