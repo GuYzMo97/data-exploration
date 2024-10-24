@@ -9,8 +9,8 @@ data.<br/><br/>
 
 
 STEPS<br/>
-1 Load the Dataset:<br/>
-  • Load the dataset from the file listings_new_york_2024.csv1.<br/>
+1. Load the Dataset:<br/>
+- Load the dataset from the file listings_new_york_2024.csv1.<br/>
   • Do preliminary data exploration:<br/>
     1. Identify number of rows and columns.<br/>
     2. Display data types of each column and convert data types if<br/>
