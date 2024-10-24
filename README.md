@@ -11,7 +11,7 @@ data.<br/><br/>
 STEPS<br/>
 1. Load the Dataset:<br/>
 - Load the dataset from the file listings_new_york_2024.csv1.<br/>
-  • Do preliminary data exploration:<br/>
+- Do preliminary data exploration:<br/>
     1. Identify number of rows and columns.<br/>
     2. Display data types of each column and convert data types if<br/>
     necessary (e.g., dates, categorical variables).<br/>
@@ -21,58 +21,57 @@ STEPS<br/>
     frequency of the first and the second mode for categorical<br/>
     columns.<br/><br/>
     
-2 Data Quality Report<br/>
-  • Missing Data Analysis:<br/>
+2. Data Quality Report<br/>
+- Missing Data Analysis:<br/>
     – Identify columns with missing values and the percentage of<br/>
   missing data in each column.<br/>
-  • Incorrect Data Detection:<br/>
+- Incorrect Data Detection:<br/>
     – Detect potential outliers or incorrect data entries.<br/>
     
-3 Handling Incorrect Data<br/>
-  1 This file is taken from the : Inside Airbnb dataset, New York City, United States, file date: July 5, 2024.<br/>
-  • Identify and handle outliers or incorrect data entries.<br/>
-  • Use domain knowledge to filter or replace incorrect values where<br/>
+3. Handling Incorrect Data<br/>
+- Identify and handle outliers or incorrect data entries.<br/>
+- Use domain knowledge to filter or replace incorrect values where<br/>
   necessary.<br/>
-  • Explain any assumptions made and the process for correcting these<br/>
+- Explain any assumptions made and the process for correcting these<br/>
   errors.<br/>
   
-4 Dealing with Missing Data<br/>
-  • Apply strategies to handle missing data:<br/>
+4. Dealing with Missing Data<br/>
+- Apply strategies to handle missing data:<br/>
     – Remove rows or columns with a high percentage of missing data.<br/>
     – Impute missing values using mean/median (for numerical data)<br/>
     or mode (for categorical data).<br/>
-  • Document your approach and reasoning behind handling missing<br/>
+- Document your approach and reasoning behind handling missing<br/>
   data.<br/><br/>
   
-5 Data Exploration<br/>
-  • Histograms:<br/>
+5. Data Exploration<br/>
+- Histograms:<br/>
     – Create histograms for numerical columns to understand the data<br/>
     distribution (normal, skewed, etc.)<br/>
-  • Bar Plots:<br/>
+- Bar Plots:<br/>
     – Generate bar plots for categorical columns to examine the<br/>
     distribution of categories.<br/>
-  • Scatter Plots:<br/>
+- Scatter Plots:<br/>
     – Create scatter plots to explore relationships between pairs of<br/>
     numerical columns.<br/>
-  • Correlation Matrix:<br/>
+- Correlation Matrix:<br/>
     – Calculate the correlation matrix for numerical variables.<br/>
     – Visualize the correlation matrix using a heatmap to identify<br/>
     highly correlated variables.<br/><br/>
     
-6 Final Data Summary<br/>
-  • Provide a summary of the cleaned dataset, including the final<br/>
+6. Final Data Summary<br/>
+- Provide a summary of the cleaned dataset, including the final<br/>
   number of rows and columns, and a comparison with the original<br/>
   dataset.<br/>
-  • Comment on any transformations or imputations applied.<br/><br/>
+- Comment on any transformations or imputations applied.<br/><br/>
 
   
 DELIVERABLES<br/>
 IPython notebook containing:<br/>
-  • A detailed data quality report for the original dataset.<br/>
-  • Categorization of all variables (features) in the dataset.<br/>
-  • Visualizations including histograms, bar plots, scatter plots, and a<br/>
+- A detailed data quality report for the original dataset.<br/>
+- Categorization of all variables (features) in the dataset.<br/>
+- Visualizations including histograms, bar plots, scatter plots, and a<br/>
   correlation matrix heatmap.<br/>
-  • A data quality plan, outlining strategies for handling missing and<br/>
+- A data quality plan, outlining strategies for handling missing and<br/>
   incorrect data.<br/><br/>
 
 Answers to the following questions:<br/>
